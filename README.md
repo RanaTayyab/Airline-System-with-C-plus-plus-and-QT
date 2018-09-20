@@ -1,1 +1,3 @@
 # Airline-System-with-C-plus-plus-and-QT
+
+# Designed & Developed GUI based desktop Application "The Airline Management System" in Object Oriented Analysis and Design's Semester Project using every core concept of Classes (Encapsulation, Abstraction, Inheritance, Polymorphism, Composition, Aggregation, Association) in the light of Software Lifecycle working on all the phases step by step with UML 2.0 Diagrams: The Use-Case Diagrams, Class Diagrams, Activity Diagrams, Sequence Diagrams, State Diagrams of whole project using 3 Design Patterns as well (Observer Pattern, Composite Pattern, Factory Pattern) then coded and implemented whole in C++ (QT) enhanced using CSS in project.
